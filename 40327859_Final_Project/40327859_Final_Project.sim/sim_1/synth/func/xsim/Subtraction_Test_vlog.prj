@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Subtraction_Test_func_synth.v" \
+"../../../../../40327859Coursework.srcs/sim_1/new/Subtraction_Test.v" \
+
+# Do not sort compile order
+nosort

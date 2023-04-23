@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.srcs/sources_1/new/FSM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.srcs/sources_1/new/Subtraciton.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Subtraction
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.srcs/sim_1/new/FSM_Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FSM_Test

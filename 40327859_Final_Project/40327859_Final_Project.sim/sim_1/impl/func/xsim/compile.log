@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.sim/sim_1/impl/func/xsim/Accumulator_Test_func_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Accumulator
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.srcs/sim_1/new/Accumulator_Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Accumulator_Test

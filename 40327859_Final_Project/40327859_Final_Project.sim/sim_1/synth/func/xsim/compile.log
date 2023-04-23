@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.sim/sim_1/synth/func/xsim/Subtraction_Test_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Subtraction
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Michael Loughran/40327859Coursework/40327859Coursework.srcs/sim_1/new/Subtraction_Test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Subtraction_Test

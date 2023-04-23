@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"Accumulator_Test_func_impl.v" \
+"../../../../../40327859Coursework.srcs/sim_1/new/Accumulator_Test.v" \
+
+# Do not sort compile order
+nosort
